@@ -30,6 +30,9 @@ Tech Stack
 4. Maven build is triggered  
 5. Build status is displayed in Jenkins dashboard  
 
+Auto build test via webhook
+
+
 
 
 
